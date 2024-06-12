@@ -1,0 +1,11 @@
+
+:root {
+    --cor-de-fundo: #000000;
+    --cor-da-fonte: #ffffff;
+    --cor-fonte-titulos: #00A624;
+    --cor-de-fundo-cabecalho: #606060;
+}
+
+body{
+    background-color: var(--cor-de-fundo)
+}
