@@ -1,4 +1,5 @@
 @import url("./estilos/header.css");
+
 :root {
     --cor-de-fundo: #606060;
     --cor-da-fonte: #ffffff;
@@ -8,4 +9,5 @@
 
 body{
     background-color: var(--cor-de-fundo)
+    height: 100vh;
 }
