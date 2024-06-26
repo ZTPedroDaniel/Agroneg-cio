@@ -1,5 +1,8 @@
 .cabecalho{
     background-color: var(--cor-de-fundo-cabecalho);
+
+
+    padding: 10px;
 }
 
 .cabecalho--menu{
