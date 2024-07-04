@@ -16,4 +16,5 @@
 
 .cabecalho h2{
     color: var(--cor-da-fonte);
+    font-family: "Jockey One", sans-serif;
 }
