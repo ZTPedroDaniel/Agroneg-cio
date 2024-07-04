@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+
 .container1{
     display: flex;
     color: var(--cor-da-fonte);
+    font-size: 12px;
+    font-family: "Jockey One", sans-serif;
     justify-content: space-between;
+}
+
+.container1-1 h2{
+    color: var(--cor-fonte-titulos);
+    font-size: 18px;
 }
