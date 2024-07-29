@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
 
 .container1{
-    display: flex;
+    display: grid;
+    grid-template-columns: 50% 50%;
     color: var(--cor-da-fonte);
     font-size: 12px;
     font-family: "Jockey One", sans-serif;
