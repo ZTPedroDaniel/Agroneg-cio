@@ -2,7 +2,7 @@
 
 .container1{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 60% 40%;
     color: var(--cor-da-fonte);
     font-size: 12px;
     font-family: "Jockey One", sans-serif;
