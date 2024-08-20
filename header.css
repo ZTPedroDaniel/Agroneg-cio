@@ -24,3 +24,8 @@
     font-family: "Jockey One", sans-serif;
 }
 
+@media screen and(min-width: 1024px) {
+    .container__titulo{
+        display:block;
+    }
+}
