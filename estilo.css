@@ -13,5 +13,5 @@
 body{
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(96,96,96,1) 100%);
     height: 100vh;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
