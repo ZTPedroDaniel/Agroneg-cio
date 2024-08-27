@@ -20,13 +20,13 @@
 
 @media screen and (min-width:1024px){
 
-    .container2-1 h2{
+    .container2-2 h2{
         font-size: 52px;
     }
     .container2{
         font-size: 35px;
     }
-    .container2-2 img{
+    .container2-1 img{
         width: 350px;
     }
     }
