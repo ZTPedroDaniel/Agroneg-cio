@@ -10,7 +10,7 @@
 @media screen and (min-width:1024px){
     .banner{
         background-size: cover;
-        height: 500px;
+        height: 300px;
     }
     .banner h2{
         font-size: 60px;
